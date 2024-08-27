@@ -1,5 +1,5 @@
 # Desafio iPhone
-
+```mermaid
 classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
@@ -20,3 +20,4 @@ classDiagram
       +adicionarNovaAba()
       +atualizarPagina()
     }
+```
